@@ -1,1 +1,1 @@
-# Finance-Supply-Chain-Analysis-MySQL-
+# Finance & Supply-Chain Analysis-MySQL-
